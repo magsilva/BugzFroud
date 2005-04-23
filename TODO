@@ -1,0 +1,2 @@
+- Split the data downloading and processing. This way it will be easier to post-process downloaded data.
+- Recover from broken connection.
